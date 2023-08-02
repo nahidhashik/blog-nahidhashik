@@ -1,9 +1,7 @@
-//# Blog Website
 
-//[www.nahidhashik.xyz](https://www.nahidhashik.xyz)
 
-//# Ui/Ux Design
-//[Design](https://www.figma.com/file/00VHjBMIHWrcvwT0EBDIge/nahidhashik)
+# Ui/Ux Design
+[Design](https://www.figma.com/file/00VHjBMIHWrcvwT0EBDIge/nahidhashik)
 
 
 [Reference Tutorial](https://www.youtube.com/watch?v=CIila2DOajo&list=PLRnSfbrE9CSipA2AIIna1URWJFVRG3SpA&index=1)
@@ -40,6 +38,4 @@
 
 1. Raw PHP
 
-//# Database
 
-//1. 
