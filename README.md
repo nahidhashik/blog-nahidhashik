@@ -8,11 +8,14 @@
 # Feature
 
 1. Home
-2. Blog
-3. Contact
-4. Project Showcase
-5. Tutorial
-6. Oj Solution
+2.Shop
+  a. Men
+  b. Women
+  c. Kids
+3. Blog
+4. Contact
+
+
 
 
 # Technology We Used
